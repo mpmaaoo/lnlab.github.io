@@ -103,7 +103,7 @@
 
 /* Slider */
 .slick-loading .slick-list {
-  background: #fff url("https://lnlab.github.io/wp-content/plugins/essential-blocks/assets/images/ajax-loader.gif") center center no-repeat;
+  background: #fff url("https://mpmaaoo.github.io/Lnn/wp-content/plugins/essential-blocks/assets/images/ajax-loader.gif") center center no-repeat;
 }
 
 /* Icons */
@@ -112,9 +112,9 @@
   font-weight: normal;
   font-style: normal;
 
-  src: url("https://lnlab.github.io/wp-content/plugins/essential-blocks/assets/fonts/slick.woff");
-  src: url("https://lnlab.github.io/wp-content/plugins/essential-blocks/assets/fonts/slick.woff") format("woff"),
-    url("https://lnlab.github.io/wp-content/plugins/essential-blocks/assets/fonts/slick.ttf") format("truetype");
+  src: url("https://mpmaaoo.github.io/Lnn/wp-content/plugins/essential-blocks/assets/fonts/slick.woff");
+  src: url("https://mpmaaoo.github.io/Lnn/wp-content/plugins/essential-blocks/assets/fonts/slick.woff") format("woff"),
+    url("https://mpmaaoo.github.io/Lnn/wp-content/plugins/essential-blocks/assets/fonts/slick.ttf") format("truetype");
 }
 /* Arrows */
 .slick-prev,
